@@ -16,3 +16,8 @@ Enjoy
 - Network  is not a problem, any DSL, Cable, etc is from the past. Your MMO game now count with a advanced telepathic power of old ones to connect any device in any location of space with ZERO latency
 - User experience is no longer a problem. If users not have sufficient fingers to use your controller, Cthulhu GE just raises new fingers, members, heads... your user always be compatible
 - The Licence of Use is more permissible than others, instead MIT it uses BPL (Blood Pact Licence). For your dreams have no limits
+
+## Release date
+
+### Beta 1.2 extimated
+**2024-04-01**
